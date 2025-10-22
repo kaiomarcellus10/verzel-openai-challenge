@@ -40,17 +40,11 @@ Model used: gpt-4o-mini-2024-07-18
 
 ---
 
-## 🚀 Como Executar
-
-1. **Clone este repositório:**
-   ```bash
-   git clone https://github.com/kaiomarcellus10/verzel-openai-challenge.git
-   cd verzel-openai-challenge
-
    ## 🧑‍💻 Autor
 
 👋 **Kaio Marcellus**  
 📍 Brasília - Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaiomarcellus10)  
 💻 [GitHub](https://github.com/kaiomarcellus10)
+
 
